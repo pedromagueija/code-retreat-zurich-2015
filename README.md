@@ -28,7 +28,7 @@ Next steps:
 Disclaimer:
 - The code seems to work for the common cases found on wikipedia (blinker, toad). The glider, because it keeps "gliding", is a bit harder to check. The first three iteration match the pattern on wikipedia.
 
--There is one single method that returns a value. The overriden toString on the Cell, so we could see something on the console.
+- There is one single method that returns a value. The overriden toString on the Cell, so we could see something on the console.
 
 Conclusion:
 I always welcome comments so please feel free.
